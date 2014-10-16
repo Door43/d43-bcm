@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcm:home|Door43 (bcm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcm|d43-bcm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcm/archive/master.zip|d43-bcm.zip]]
+
+**Recent Changes**
+{{changes>ns = bcm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcm|Ethnologue data]]
+
